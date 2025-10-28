@@ -40,11 +40,11 @@ const HeroSection = () => {
           </div>
           
           <div className="w-full lg:w-1/2 flex justify-center lg:justify-end">
-            <div className="w-full max-w-sm lg:max-w-md relative">
+            <div className="w-full max-w-xs lg:max-w-sm relative">
               <div className="rounded-lg overflow-hidden border border-purple-500/50 neon-border-purple">
                 <img 
-                  src="/lovable-uploads/d0ec42d9-cc6a-4acb-96bc-e7c22616a483.png" 
-                  alt="Profile" 
+                  src="/lovable-uploads/profile-vihan.jpeg" 
+                  alt="Vihan Bansal Profile" 
                   className="w-full h-auto object-cover"
                 />
               </div>
