@@ -23,7 +23,7 @@ const projects = [
     title: "MantraX",
     description: "A web app for creating and managing tests with automated scoring, real-time analytics, and a smooth user experience",
     technologies: ["Next.js", "Shadcn UI", "TypeScript", "Tailwind CSS"],
-    image: "https://unsplash.com/photos/a-man-using-a-laptop-computer-on-a-table-dztVNNwGxq0",
+    image: "/lovable-uploads/mantrax-project.png",
     link: "https://mantrax.vercel.app/"
   },
   {
