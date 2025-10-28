@@ -32,7 +32,7 @@ const projects = [
     description: "A personal portfolio website with smooth animations, dark mode, and custom illustrations.",
     technologies: ["HTML", "CSS", "JavaScript", "Next.js", "React"],
     image: "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    link: "https://vihan-portfolio.vercel.app/"
+    link: "https://vihan-portfolio.netlify.app/"
   }
 ];
 
