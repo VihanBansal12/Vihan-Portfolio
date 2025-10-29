@@ -11,13 +11,13 @@ const projects = [
     link: "#"
   },
   {
-    id: 2,
-    title: "Weather Dashboard",
-    description: "Real-time weather application with forecast data, location search, and interactive UI elements.",
-    technologies: ["JavaScript", "API", "CSS", "HTML"],
-    image: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    link: "#"
-  },
+  id: 2,
+  title: "HRMS Platform",
+  description: "A collaborative team project for building a modern Human Resource Management System with modules for employee management, department tracking, and performance analytics using clean, responsive UI components.",
+  technologies: ["Next.js", "shadcn/ui", "Tailwind CSS", "TypeScript"],
+  image: "https://images.unsplash.com/photo-1556761175-4b46a572b786?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+  link: "#"
+},
   {
     id: 3,
     title: "MantraX",
